@@ -1,4 +1,3 @@
-# Hoja-De-Vida
 <!DOCTYPE html>
 <html lang="es">
 <head>
